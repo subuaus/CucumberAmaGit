@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.277409">
+<testcase classname="Login to Amazon homepage and select the product" name="Navigating to Amazon homepage" time="24.277409">
+<system-out><![CDATA[Given User has opened the browser...........................................passed
+When browser is open........................................................passed
+Then Enter url Amazon and go................................................passed
+Then Hover over the Account Tab.............................................passed
+Then click on SignIn........................................................passed
+Then enter username and password and login..................................passed
+Then Hover on Shop by department tab........................................passed
+Then Move curser to headphones under Electronics,computer & office..........passed
+Then click on headphones link...............................................passed
+Then type philips on search tab on Headphones and Earphones page............passed
+Then click on philips lighweight in-ear SHE.................................passed
+Then System should navigate to this product page............................passed
+]]></system-out>
+</testcase>
+</testsuite>

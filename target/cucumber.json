@@ -1,0 +1,166 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Navigating to Amazon homepage",
+        "description": "",
+        "id": "login-to-amazon-homepage-and-select-the-product;navigating-to-amazon-homepage",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5579858016,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User has opened the browser",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.user_has_opened_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 79071547,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "browser is open",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.browser_is_open()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4677948076,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter url Amazon and go",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.enter_url_Amazon_and_go()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 155199094,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Hover over the Account Tab",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.hover_over_the_Account_Tab()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1169234522,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "click on SignIn",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.click_on_SignIn()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4455038872,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "enter username and password and login",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.enter_username_and_password_and_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 812798348,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Hover on Shop by department tab",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.hover_on_Shop_by_department_tab()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 141086612,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Move curser to headphones under Electronics,computer \u0026 office",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.move_curser_to_headphones_under_Electronics_computer_office()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2739021927,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "click on headphones link",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.click_on_headphones_link()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4198572004,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "type philips on search tab on Headphones and Earphones page",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.type_philips_on_search_tab_on_Headphones_and_Earphones_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 269466832,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "click on philips lighweight in-ear SHE",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.click_on_philips_lighweight_in_ear_SHE()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 112716,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "System should navigate to this product page",
+            "match": {
+              "location": "TC001_AmazonCucNaviHomepage.system_should_navigate_to_this_product_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login to Amazon homepage and select the product",
+    "description": "",
+    "id": "login-to-amazon-homepage-and-select-the-product",
+    "keyword": "Feature",
+    "uri": "C:/Users/User/workspace/AmazonCucumber/src/test/java/Features/NavigateAmazon.feature"
+  }
+]
